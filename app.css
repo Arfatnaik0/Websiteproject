@@ -257,7 +257,7 @@ body
 {
    
 max-height: 95%;
-max-width: 100%;
+max-width: 480px;
 transition: all 0.3s;
 border-radius: 10px;
 }
