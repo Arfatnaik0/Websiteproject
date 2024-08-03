@@ -1,4 +1,3 @@
-alert("This is just a HTML/CSS project");
 const hamburger = document.querySelector(".hamburger");
 const bar1 = document.querySelector(".bar1");
 const bar2 = document.querySelector(".bar2");
